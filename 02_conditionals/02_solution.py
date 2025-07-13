@@ -11,6 +11,7 @@ print("Day is", day)
 if age > 40:
     price = 89
 print("Ticket price for you is $",price)
+print("Enjoy the show!")
 
 # To commit code in git, follow these steps in your terminal:
 # 1. Initialize git (if not already): git init
